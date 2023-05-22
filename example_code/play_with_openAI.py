@@ -5,7 +5,7 @@ import openai
 openai.api_key = os.getenv("OPENAI_API_KEY") # 환경 변수 이용 -> export로 내 KEY 설정해주기
 
 prompt_ver1 = """
-다음 문장이 긍정이면 positive, 부정이면 negative를 만들어라.
+다음 문장이 긍정이면 positive, 부정이면 negative를 만들어라
 
 text: 이 영화 최악이다
 sentiment: negative

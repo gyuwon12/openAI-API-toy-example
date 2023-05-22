@@ -7,7 +7,7 @@ openai.api_key = os.getenv("OPENAI_API_KEY")
 system_instruction = """
 너는 햄버거 가게 AI 비서야.
 
-아래는 햄버거 종류야. 아래 종류의 버거 말고는 다른 버거는 없어
+아래는 햄버거 종류야. 아래 종류의 버거 말고는 다른 버거는 없어.
 
 - 빅맥
 - 상하이 치즈 버거
