@@ -3,7 +3,7 @@ import streamlit as st
 #st.title("Title")
 #st.write("this is text")
 
-# 주석 사용으로 했는데, 마크다운으로 취급을 해서, 웹 페이지에 노출하나봄
+# 주석 사용으로 했는데, 마크다운으로 취급을 해서, 웹 페이지에 노출하나봄.
 """
 # This is title
 ## This is subtitle
